@@ -1,0 +1,22 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantAdzam/myFirstGit.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "XX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantAdzam/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/BryantAdzam/myFirstGit#readme"
+}
